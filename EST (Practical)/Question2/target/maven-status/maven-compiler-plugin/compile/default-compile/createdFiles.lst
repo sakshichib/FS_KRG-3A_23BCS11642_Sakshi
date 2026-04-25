@@ -1,0 +1,5 @@
+com\example\controller\AuthController.class
+com\example\security\SecurityConfig.class
+com\example\controller\ProtectedController.class
+com\example\security\JwtAuthenticationFilter.class
+com\example\SpringBootJwtApplication.class
